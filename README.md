@@ -162,3 +162,15 @@ MIT License
 ---
 
 This README is also a working example: it combines a project-native hero, a theme wall, real adoption proof, section transitions, and readable Markdown instead of rasterizing the whole page.
+
+## 配置、依赖与使用边界
+
+Markdown/SVG 本身无需账号或 API Key；生成 PNG/WebP 或采用 AI 生图时需要对应渲染与已授权生成工具。
+
+不伪造 star、性能、用户或品牌背书；修改后检查链接、素材与实际渲染。发布与合并遵守当前任务授权。
+
+使用示例：
+
+```text
+优化这个仓库的 README 首页，保留真实项目事实。
+```
