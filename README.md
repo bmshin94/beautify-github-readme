@@ -14,7 +14,7 @@
   <img src="./assets/readme/en/section-used-by.svg" width="100%" alt="Real repositories already using beautify-github-readme.">
 </p>
 
-These are not hypothetical templates. The method is already used by eight public repositories, each with its own visual language and content structure:
+整理并设计仓库 README，让项目价值、真实案例、安装方式与使用边界更容易理解。
 
 - **[oil-ppt](https://github.com/oil-oil/oil-ppt)** — presents the method, results, and first-use path for programmatic slide creation in one visual system.
 - **[draw-ui](https://github.com/oil-oil/draw-ui)** — uses real UI outputs to explain the path from a brief and reference images to HTML/CSS reconstruction.
